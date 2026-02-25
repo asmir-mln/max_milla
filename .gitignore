@@ -1,0 +1,15 @@
+# Fichiers générés
+output/
+
+# Systèmes d'exploitation
+.DS_Store
+Thumbs.db
+
+# Éditeurs
+.vscode/
+*.swp
+*.swo
+
+# Fichiers temporaires
+*.tmp
+*.bak
