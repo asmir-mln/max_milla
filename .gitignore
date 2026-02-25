@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+*.egg-info/
+dist/
+build/
+
+# Images temporaires
+*.tmp
+*.temp
+
+# PDFs générés (optionnel - décommenter si vous ne voulez pas versionner les PDFs)
+# output/*.pdf
+# *.pdf
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Stable Diffusion (très volumineux)
+stable-diffusion-webui/
+C:/Users/Asmir/Desktop/stable-diffusion-webui/
+
+# XAMPP (déjà sur le système)
+C:/xampp/
+
+# Fichiers temporaires Windows
+*.bak
+*.cache
+
+# Images générées (décommenter si trop volumineuses)
+# illustrations_kids/*.png
+# illustrations_adult/*.png
+# illustrations_kids_amazon/*.png
+# illustrations_adult_amazon/*.png
+
+# Installateurs
+*.exe
+*.msi
+GitInstaller.exe

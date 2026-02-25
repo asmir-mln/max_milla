@@ -1,0 +1,8 @@
+# Dépendances du projet Livre Format 3
+
+# Essentielles
+Pillow>=9.0.0       # Traitement d'images
+reportlab>=4.0.0    # Génération de PDF
+
+# Optionnelles
+PyPDF2>=3.0.0       # Fusion de PDFs (commentez si non utilisé)
